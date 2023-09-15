@@ -17,6 +17,13 @@ Then:
 - Look around the live app preview and the codebase. You'll see that our starting point is the solution to the Bulletin Board 1 project.
 - Make Git commits and Format Document often as you work.
 
+<aside markdown="1">
+
+When copy-pasting code into HTML documents, you can auto-format the indentation so that the elements are properly nested using <kbd>Cmd</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (Mac) or <kbd>Cntrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (Windows) to open the **command pallet** in VSCode. 
+
+With the `>` command pallet prompt open, you can search "Format" and find the command. (You can search for any command in this prompt.) You will also see a direct keyboard shortcut to that formatting command that might be useful to you. Become a keyboard ninja!
+</aside> 
+
 ## Hints
 
 

@@ -1,5 +1,10 @@
 # Bootstrapping Bulletin Board 1
 
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+Before you begin here, make sure you have gone through the [Bootstrap Levels lesson](https://learn.firstdraft.com/lessons/139-intro-to-bootstrap).
+</div>
+
 In this project, we'll practice using bootstrap.css to make our apps look professional.
 
 [Here is our target.](https://bulletin-board-bootstrap.matchthetarget.com/)
